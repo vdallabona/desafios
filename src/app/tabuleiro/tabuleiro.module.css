@@ -1,0 +1,18 @@
+.white {
+    height: 10vh;
+    width: 10vh;
+    background-color: #fff;
+    float: right;
+}
+
+.black {
+    height: 10vh;
+    width: 10vh;
+    background-color: #000;
+    float: right;
+}
+
+#quadrado {
+    height: 80vh;
+    width: 80vh;
+}

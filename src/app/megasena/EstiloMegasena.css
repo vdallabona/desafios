@@ -1,0 +1,33 @@
+.botao {
+    border: none;
+    padding: 0.5vh 1vh;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.5vh;
+    box-shadow: -1px 1px 5px;
+    margin-right: 1vh;
+    background-color: beige;
+    
+}
+
+.botao:hover{
+    border: none;
+    padding: 0.8vh 1.8vh;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2vh;
+    box-shadow: -1px 1px 5px;
+    margin-right: 1vh;
+    background-color:rgb(230, 230, 230);
+    transition: background 0.2s ease-in-out;
+    transition: font 0.2s ease-in-out;
+    transition: padding 0.2s ease-in-out;
+}
+
+.divcentral {
+    margin-bottom: 1vh;
+    font-size: 3vh;
+    text-shadow: 2px 2px 5px;
+}
